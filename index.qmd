@@ -34,7 +34,7 @@ library(stringr)
 
 ## Projet RECIT
 
-![](img/im_Rladies_mem1.jpg){width="1200px"}
+![](img/im_Rladies_mem_1.jpg){width="1200px"}
 
 -   **Analyste de données** dans un labo de géographie (UMR 5600 Environnement Ville Société)
 
@@ -44,7 +44,7 @@ library(stringr)
 
 ## Projet RECIT
 
-![](img/im_Rladies_mem1.jpg){width="1200px"}
+![](img/im_Rladies_mem_1.jpg){width="1200px"}
 
 -   Intérêt pour les **données du web** (réseaux sociaux, projet Wikimedia)
 
@@ -52,7 +52,7 @@ library(stringr)
 
 ## Projet RECIT
 
-![](img/im_Rladies_mem2.jpg){width="1200px"}
+![](img/im_Rladies_mem_2.jpg){width="1200px"}
 
 **Projet émergent ENS: RECIT**:
 
@@ -64,7 +64,7 @@ library(stringr)
 
 <div>
 
-![](img/im_Rladies_mem3.jpg){width="1200px"}
+![](img/im_Rladies_mem_3.jpg){width="1200px"}
 
 </div>
 
@@ -97,7 +97,7 @@ Stage M2 **Camille Scheffler** et exploration des Wikidata pour deux cas d'étud
 
 <div>
 
-![](img/im_Rladies_mem4.jpg){width="1200px"}
+![](img/im_Rladies_mem_4.jpg){width="1200px"}
 
 </div>
 
@@ -117,13 +117,13 @@ En tant que "**Domain Specific Language**" (DSL), glitter correspond à une *syn
 
 ## Projet RECIT
 
-![](img/im_Rladies_mem5.jpg){width="1200px"}
+![](img/im_Rladies_mem_5.jpg){width="1200px"}
 
 2022, 2023: presta de 💪**Maëlle Salmon**
 
 ## Projet RECIT
 
-![](img/im_Rladies_mem.jpg)
+![](img/im_Rladies_mem_6.jpg)
 
 Le projet prend fin: 🎉 {glitter} est prêt à être utilisé!! 🎉
 
@@ -422,7 +422,6 @@ tib
 
 ::: columns
 ::: {.column width="50%"}
-
 Temps de réponse du serveur limité par un paramètre de Time out:
 
 -   Wikidata Query Service : 60s
